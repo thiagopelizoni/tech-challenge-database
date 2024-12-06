@@ -5,7 +5,6 @@ variable "db_username" {
 
 variable "db_password" {
     description = "Senha de acesso à instância RDS"
-    default     = "PNKgmAXsLxZc9k6q"
 }
 
 variable "db_name" {
